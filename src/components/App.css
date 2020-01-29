@@ -83,3 +83,12 @@
     }
   }
 }
+.characterList {
+  background: rgb(32, 35, 41);
+}
+.row {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+margin: 0 auto;
+place-items: center;
+}
